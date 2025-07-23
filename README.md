@@ -3,3 +3,4 @@ inside is a math game were you get digits of pie to help a baker.
 fixed over 60 syntax errors.
 over 100 lines.
 2 story outcomes
+we have also added some other math based projects to have some fun
