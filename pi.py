@@ -116,7 +116,7 @@ if x == "40/7":
     print ("ah what a fine baker za pupel has become. ")
     print ("i beleve you are ready know to run my backery.")
     print ("you are chosen to take my place as...")
-    print ("i am retairing")
+    print ("i am retairing!")
     print ("THE END thnks so much for playing pie the game it means a lot as this is my first python program hope you enjoyed it frome the dev.")
 else:
  print ("why you could not best me in our doughy dual you are to become my newst meat pie the baker. game over.")   
